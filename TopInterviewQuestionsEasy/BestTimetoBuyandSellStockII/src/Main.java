@@ -5,7 +5,7 @@ public class Main {
         int[] prices = {4,2,1,7};
         Solution solution = new Solution();
         System.out.println(solution.maxProfit(prices));
-        
+
     }
 }
 
