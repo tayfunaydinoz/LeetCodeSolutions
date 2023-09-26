@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MajorityElements/MajorityElements.iml" filepath="$PROJECT_DIR$/MajorityElements/MajorityElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MergeSortedArray/MergeSortedArray.iml" filepath="$PROJECT_DIR$/MergeSortedArray/MergeSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDublicatesfromSortedArrayII/RemoveDublicatesfromSortedArrayII.iml" filepath="$PROJECT_DIR$/RemoveDublicatesfromSortedArrayII/RemoveDublicatesfromSortedArrayII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.iml" filepath="$PROJECT_DIR$/RemoveDuplicatesfromSortedArray/RemoveDuplicatesfromSortedArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoveElement/RemoveElement.iml" filepath="$PROJECT_DIR$/RemoveElement/RemoveElement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TopInterview150.iml" filepath="$PROJECT_DIR$/.idea/TopInterview150.iml" />
+    </modules>
+  </component>
+</project>
